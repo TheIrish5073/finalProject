@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "git",
+			"path": "../git"
+		},
+		{
+			"name": "build",
+			"path": "../project/build"
+		},
+		{
+			"name": "src",
+			"path": "../project/src"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "build"
+	}
+}
